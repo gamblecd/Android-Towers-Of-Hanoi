@@ -1,0 +1,3 @@
+[submodule "towersOfHanoi"]
+	path = towersOfHanoi
+	url = git://github.com/gamblecd/TowersOfHanoi.git
